@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+#button {
+  margin-bottom: 16px;
+}
+
+.grid {
+  margin: auto;
+}
+
+.footer {
+  margin-top: 16px;
+}
